@@ -4,6 +4,7 @@ destination         : ./_site
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
+remote_theme        : pages-themes/dinky@v0.2.0
 data_dir            : _data
 includes_dir        : _includes
 sass:
@@ -29,7 +30,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [- jekyll-remote-theme]
 
 # Conversion
 markdown            : kramdown
