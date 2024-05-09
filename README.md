@@ -1,3 +1,7 @@
+---
+  layout: default
+---
+
 # Welcome!
 
 My name is Alexander Abreu and this is my portfolio website for my work 
