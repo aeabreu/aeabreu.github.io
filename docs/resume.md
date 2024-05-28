@@ -26,7 +26,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Experience with docs-as-code workflows and git, and Markdown and Asciidoc format.
 + A.I. for docs experience with Notion’s Ask A.I. and ChatGPT.
 + Experience with JIRA and Asana software for Agile workflow management.
-+ Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
++ Highly skilled at developing perfect documents across all categories (wikis, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
 + Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
 + Experience with XML-based DITA documentation tools.
 + Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML).
