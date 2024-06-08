@@ -29,5 +29,5 @@ We all have our favorite adjectives for engineers. A good characteristic for a w
 
 These users are [information foraging](https://www.nngroup.com/articles/information-foraging/), so style and formatting choices for them prioritize discoverability and skimmability. Wiki pages and API docs are formatted to match conventions from the internet and from open-source examples because engineers know these formats intuitively and can consume them quickly.
 
-For more, see [What is the magic?: Features of good docs (part 2)](https://dropbox.atlassian.net/wiki/spaces/EngOps/pages/1083736808) 
+For more, see [What is the magic?: Features of good docs (part 2)](./whats_the_magic_2.md) 
 
