@@ -41,7 +41,8 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 **Senior Tech Writer**, Dropbox, San Francisco, *Aug 2023 - Present*
 
 + Managed the internal Confluence wiki environment for Plat and Mobile engineers and TPMs.
-+ Supported migration to a docs-as-code workflow with Markdown in a developer portal environment.
++ Supported migration to a docs-as-code workflow with Markdown for an in-house developer portal environment with LLM features.
++ Created, edited, and managed docs on the internal SERVER through git and GitHub.
 
 **Senior Tech Writer**, Secureframe,  Fully Remote, *Oct 2022 - Jun 2023*
 
