@@ -9,7 +9,8 @@ and work that spans my entire career.
 
 
 Interested in [viewing my resume](docs/resume.md)? 
-Or [return to the home page](aeabreu.github.io).
+
+Or [return to the home page](https://aeabreu.github.io/).
 
 # Work samples
 
