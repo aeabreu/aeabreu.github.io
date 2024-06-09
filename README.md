@@ -9,26 +9,30 @@ have a look around!
 I'm using (for now...) GitHub Pages and Jekyll for styling. 
 
 
-# What's on here?
+# What's here?
 
 This is the landing page for my porfolio website on GitHub. 
 Around the rest of the site you'll find:
 
 ## My resume
 
-[Get a look at my full, current resume](./docs/resume)
+[Get a look at my full, current resume](./docs/resume.md)
 
 ## My portfolio
 
-[See the work samples and screenshots that illustrate my work experience.]()
+[See the work samples and screenshots that illustrate my work experience.](./docs/portfolio.md)
 
-## How I approach documentation
+## How I approach docs
 
 In my lengthening career I've done every kind of tech writing, 
 from spiral-bound binders for manual procedures, 
 to wikis for software and internet applications.
 
-I'm a humanities major who operates well in a STEM environment
-and there are lessons I take from that experience
-which may be [interesting to other writers]() or others 
-that may be [curious to hire]() one for the first time.
+I'm a humanities major who operates well in a STEM environment.
+On a job, I'll often make a little corner on a wiki where
+clients can not only request support, but also get an idea
+for what tech writers do and how they do it.
+
+Curious to hire a writer? Here's some insight into what we do:
+* [Thinking about good documentation](whats_the_magic_1.md)
+* [A good document](whats_the_magic_2.md)
