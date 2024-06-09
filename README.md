@@ -34,5 +34,5 @@ clients can not only request support, but also get an idea
 for what tech writers do and how they do it.
 
 Curious to hire a writer? Here's some insight into what we do:
-* [Thinking about good documentation](whats_the_magic_1.md)
-* [A good document](whats_the_magic_2.md)
+* [Thinking about good documentation](./docs/whats_the_magic_1.md)
+* [A good document](./docs/whats_the_magic_2.md)
