@@ -8,7 +8,7 @@ But I've even included here some printed guides
 and work that spans my entire career.
 
 
-Interested in [viewing my resume](docs/resume.md)? 
+Interested in [viewing my resume](./resume.md)? 
 
 Or [return to the home page](https://aeabreu.github.io/).
 
