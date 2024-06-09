@@ -18,12 +18,12 @@ Click the images to view more.
 
 ## Web & wikis examples
 
-![Tech writing wiki homepage](./media/TechWritingHomewiki.png "https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkdzZ3RuYVlybzQ?resourcekey=0-XewCt1PnU73T7iTqNkLRGg&usp=drive_link")
+[![Tech writing wiki homepage](./media/TechWritingHomewiki.png)](https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkdzZ3RuYVlybzQ?resourcekey=0-XewCt1PnU73T7iTqNkLRGg&usp=drive_link)
 
 ## Diagram examples
 
-![KP Roadmap Diagram](./media/KPRoadmap.jpg "https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkxzQm9tRVNxcjg?resourcekey=0-fH2CRgsuK8OuMsnSQq2h7g&usp=drive_link")
+[![KP Roadmap Diagram](./media/KPRoadmap.jpg)](https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkxzQm9tRVNxcjg?resourcekey=0-fH2CRgsuK8OuMsnSQq2h7g&usp=drive_link)
 
 ## Manual & guide examples
 
-![PGE manual cover page](./media/PGEManualCover.jpg "https://drive.google.com/drive/folders/0BxR9jVUkYVXnVFpfVmtNS2hlVVE?resourcekey=0-94gzZRaR_1XjO1e0W303MA&usp=drive_link")
+[![PGE manual cover page](./media/PGEManualCover.jpg)](https://drive.google.com/drive/folders/0BxR9jVUkYVXnVFpfVmtNS2hlVVE?resourcekey=0-94gzZRaR_1XjO1e0W303MA&usp=drive_link)
