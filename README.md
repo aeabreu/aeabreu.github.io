@@ -31,7 +31,7 @@ to wikis for software and internet applications.
 I'm a humanities major who operates well in a STEM environment.
 On a job, I'll often make a little corner on a wiki where
 clients can not only request support, but also get an idea
-for what tech writers do and how they do it.
+of what tech writers do and how they do it, content like the articles below.
 
 Curious to hire a writer? Here's some insight into what we do:
 * [Thinking about good documentation](./docs/whats_the_magic_1.md)
