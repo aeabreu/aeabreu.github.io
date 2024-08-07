@@ -27,7 +27,7 @@ but the process should inspire confidence and help the user see the usefulness o
 
 **EXAMPLE:**
 
-[https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/) 
+[Gatsby's Getting Started Tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/) 
 
 I love that Gatsby includes a video in this example, 
 placed below the introduction and offering the experience of a live teacher 
@@ -46,7 +46,7 @@ These are like recipes, presenting the solutions to tasks your user will be look
 
 **EXAMPLE:**
 
-[https://www.twilio.com/docs/flex/end-user-guide/dialpad-use](https://www.twilio.com/docs/flex/end-user-guide/dialpad-use) 
+[Twilio's Use the Flex Dialpad Guide](https://www.twilio.com/docs/flex/end-user-guide/dialpad-use) 
 
 Notice the docs that support this how-to guide in the left sidenav. 
 Reference docs are readily available, and there’s a page on keyboard shortcuts to make an interested user a power user.
@@ -63,7 +63,7 @@ Explanations are **discussions presented to clarify the history or subtleties of
 
 **EXAMPLE:**
 
-[https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc](https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc) 
+[Amazon's Monitoring and Observability Page](https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc) 
 
 This example explains AWS Observability, a concept that justifies the CloudWatch service. 
 Notice the “Related services” section ties this concept directly to existing services.
@@ -79,7 +79,7 @@ These are like encyclopedia entries for the ingredients in a recipe.
 
 **EXAMPLE:**
 
-[https://stripe.com/docs/api/events/object](https://stripe.com/docs/api/events/object)
+[Stripe's API Events Object](https://stripe.com/docs/api/events/object)
 
 Notice all these objects and endpoints are on a single webpage, so all can be readily searched. 
 Notice that summary information is not included here, just a link to the “related guide” 
