@@ -16,10 +16,6 @@ Or [return to the home page](https://aeabreu.github.io/).
 
 Click the images to view more private samples, or the live sites themselves.
 
-## Web & wikis examples
-
-[![Tech writing wiki homepage](./media/TechWritingHomewiki.png)](https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkdzZ3RuYVlybzQ?resourcekey=0-XewCt1PnU73T7iTqNkLRGg&usp=drive_link)
-
 ## API examples
 
 [![Adobe Substance 3D API landing page](./media/ff-api-3d.png)](https://developer.adobe.com/firefly-services/docs/s3dapi/?aio_internal)
@@ -33,6 +29,10 @@ Click the images to view more private samples, or the live sites themselves.
 [![GenStudio for Performance Marketing User Guide](./media/genstudio-user-guide.png)](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
 
 [![GenStudio for Performance Marketing Extensibility Guide](./media/genstudio-exten-guide.png)](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/ext-guide/home)
+
+## Web & wikis examples
+
+[![Tech writing wiki homepage](./media/TechWritingHomewiki.png)](https://drive.google.com/drive/folders/0BxR9jVUkYVXnbkdzZ3RuYVlybzQ?resourcekey=0-XewCt1PnU73T7iTqNkLRGg&usp=drive_link)
 
 ## Diagram examples
 
