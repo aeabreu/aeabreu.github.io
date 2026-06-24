@@ -1,3 +1,7 @@
+# Required so the github-pages metadata plugin can resolve the repo in CI
+# (it reads the local git remote otherwise, which CI checkouts lack).
+repository: aeabreu/aeabreu.github.io
+
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
