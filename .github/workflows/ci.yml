@@ -1,0 +1,86 @@
+name: CI
+
+# Validate that the site builds and nothing is broken before a PR merges
+# (the GitHub Pages "legacy" build only runs after merge to main and gives
+# no pre-merge feedback).
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build & check links/images
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # The github-pages gem pins Jekyll 3.9 / Liquid 4.0.3, which calls
+          # String#tainted? — removed in Ruby 3.2+. Pin to 3.1 so it boots.
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Install HTMLProofer
+        run: gem install html-proofer -v "~> 5.0"
+
+      # Blocking: internal links and images must resolve. This is the bug
+      # class image-button pages are prone to (a mistyped ./media/ path).
+      - name: Check internal links & images
+        run: |
+          htmlproofer ./_site \
+            --disable-external \
+            --allow-hash-href
+
+  markdownlint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: |
+            **/*.md
+            !_site
+
+  external-links:
+    name: External links (non-blocking)
+    runs-on: ubuntu-latest
+    # External availability is flaky and outside our control, so report but
+    # never block a merge on it.
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Install HTMLProofer
+        run: gem install html-proofer -v "~> 5.0"
+
+      - name: Check external links
+        run: |
+          htmlproofer ./_site \
+            --allow-hash-href \
+            --ignore-urls "/drive\.google\.com/" \
+            --ignore-status-codes "403,429,503,999"

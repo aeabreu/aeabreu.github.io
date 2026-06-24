@@ -6,7 +6,7 @@ Of course, I don’t expect everyone to become a technical writer after reading 
 
 # Some quick philosophy
 
-Technical doc principles often overlap with programming principles, and [there are plenty of them](https://en.wikipedia.org/wiki/Category:Programming_principles). These mostly advocate for [simplicity](https://hemingwayapp.com/) and [clarity](https://centerforplainlanguage.org/). But the highest principle every writer starts with is to **always consider your audience.** 
+Technical doc principles often overlap with programming principles, and [there are plenty of them](https://en.wikipedia.org/wiki/Category:Programming_principles). These mostly advocate for [simplicity](https://hemingwayapp.com/) and [clarity](https://centerforplainlanguage.org/). But the highest principle every writer starts with is to **always consider your audience.**
 
 Know your user by asking:
 
@@ -16,7 +16,7 @@ Know your user by asking:
 * What is the route that has brought them to the doc?
 * What do they expect to find in the doc, and how do they expect to find it?
 
-The best documentation knows and serves its audience best. 
+The best documentation knows and serves its audience best.
 
 ## An audience of engineers
 
@@ -29,5 +29,4 @@ We all have our favorite adjectives for engineers. A good characteristic for a w
 
 These users are [information foraging](https://www.nngroup.com/articles/information-foraging/), so style and formatting choices for them prioritize discoverability and skimmability. Wiki pages and API docs are formatted to match conventions from the internet and from open-source examples because engineers know these formats intuitively and can consume them quickly.
 
-For more, see [What is the magic?: Features of good docs (part 2)](./whats_the_magic_2.md) 
-
+For more, see [What is the magic?: Features of good docs (part 2)](./whats_the_magic_2.md)

@@ -3,6 +3,7 @@
 This is a template test:
 
 # TEST
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -40,6 +41,6 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.

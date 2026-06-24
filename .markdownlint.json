@@ -1,0 +1,7 @@
+{
+  "comment": "Strict defaults with two documented exceptions. MD013 (line length) can't be auto-fixed on prose. MD025 (single H1) is disabled because these pages intentionally use multiple top-level '#' sections (e.g. portfolio's 'What's here' + 'Work samples'); enforcing it would restructure the rendered heading hierarchy.",
+  "default": true,
+  "MD013": false,
+  "MD025": false,
+  "MD024": { "siblings_only": true }
+}
