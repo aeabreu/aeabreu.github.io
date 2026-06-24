@@ -1,12 +1,13 @@
 # Welcome
 
 My name is Alexander Abreu and this is my portfolio website for my work
-as a technical writer and documentation manager.
+as a technical writer and content designer.
 
 So if you're hiring or curious about the work of one San Francisco-based documentarian,
 have a look around!
 
-I'm using (for now...) GitHub Pages and Jekyll for styling.
+I'm still using my rinky-dink GitHub Pages and Jekyll for styling  (for now...) because I'm partial to this light-weight stack
+where I've taught myself all the components. Although now my commits are by AI, because that is so much more to learn.
 
 # What's here?
 
