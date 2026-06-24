@@ -3,9 +3,9 @@
 Here is my portfolio (of sorts), a collection of samples and screenshots 
 that I can share from past projects.
 
-Of course all my latest work is Web, templates, and wiki content. 
-But I've even included here some printed guides
-and work that spans my entire career.
+My latest work is API documentation and microsite design and management. 
+But I've even included here some Web, templates, and wiki content,
+along with printed guides and work that spans my entire career.
 
 
 Interested in [viewing my resume](./resume.md)? 
@@ -14,7 +14,7 @@ Or [return to the home page](https://aeabreu.github.io/).
 
 # Work samples
 
-Click the images to view more.
+Click the images to view more private samples, or the live sites themselves.
 
 ## Web & wikis examples
 
