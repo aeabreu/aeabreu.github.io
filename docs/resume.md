@@ -21,27 +21,36 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 ## Skill Summary
 
 + Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint, Google Docs, Google Sheets.
-+ Extensive experience with API and web development tools including GitHub, Swagger, Readme.io, Gliffy, Postman, Bitbucket.
++ Extensive experience with API and web development tools including GitHub, Swagger, Redocly, Readme.io, Gliffy, Postman, Bitbucket.
 + Extensive experience with wiki doc platforms Notion and Confluence.
 + Experience with docs-as-code workflows and git, and Markdown and Asciidoc format.
-+ A.I. for docs experience with Notion’s Ask A.I. and ChatGPT.
++ A.I. tooling for docs experience with Cursor, Claude Code, Github Copilot, and ChatGPT.
++ Agentic workflows architect for documentation drafting, collaborative editing, and release updates.
++ CI/CD design and enforcement for confident collaborative documentation in git.
 + Experience with JIRA and Asana software for Agile workflow management.
 + Highly skilled at developing perfect documents across all categories (wikis, newsletters, user manuals, white pages, guides, calendars, job aides, etc).
 + Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
 + Experience with XML-based DITA documentation tools.
 + Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML).
-+ Extensive experience designing training materials (powerpoint, PDF, and Lessonly), designing and leading tutorial sessions.
++ Extensive experience designing training materials (PowerPoint, PDF, and Lessonly), designing and leading tutorial sessions.
 + Familiar with parsing and/or writing code in CSS, HTML, JavaScript, XML, YAML, JSON, Ruby languages.
 
 ## Work Experience
 
-**Senior Tech Writer**, Dropbox, San Francisco, *Aug 2023 - Present*
+**Senior API Tech Writer**, Adobe, San Francisco, *Jan 2025 - Present*
 
-+ Managed the internal Confluence wiki environment for Plat and Mobile engineers and TPMs.
++ Owned API docs for Firefly AI tools, managing content migrations and creation from multiple dev and prod teams in a docs-as-code set up.
++ Owned and supported GenStudio product documentation user guide and extensibility guide, on a GitHub framework.
++ Facilitated production on multiple microsite frameworks for docs, from draft to deployment, using Cursor, Claude Code, and AI-assisted content development for Adobe AI tools.
++ Implemented and expanded agentic workflows for docs, leading to faster content generation, content syncing, and content evaluation.
+
+**Senior Tech Writer**, Dropbox, San Francisco, *Aug 2023 - Nov 2024*
+
++ Managed the internal Confluence wiki environment for platform and mobile engineers and TPMs.
 + Supported migration to a docs-as-code workflow with Markdown for an in-house developer portal environment with LLM features.
 + Created, edited, and managed docs on the internal SERVER through git and GitHub.
 
-**Senior Tech Writer**, Secureframe,  Fully Remote, *Oct 2022 - Jun 2023*
+**Senior Tech Writer**, Secureframe, Fully Remote, *Oct 2022 - Jun 2023*
 
 + Managed in-app content and guidance using a Retool backend.
 + Conducted internal wiki management and doc development on Notion with Ask A.I. and ChatGPT.
@@ -63,10 +72,8 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 **Technical Writer**, Skrimmage Project, SF, CA, *Feb 2017 - Aug 2017*
 
-+ Created and maintained the [Skrimmage API documentation](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) through Swaggerhub.
-+ Tested and validate API responses using Postman.
-+ Created MongoDB UML diagrams using Gliffy.
-+ Validated MongoDB schemas using the Mongo shell.
++ Created UML diagrams for the MongoDB using Gliffy.
++ Created and maintained the [Skrimmage API documentation](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) using Swagger and YAML.
 + Developed my presence on Github and in other venues for tech writing specific to the engineer community.
 
 **IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, *Sep 2015 - Dec 2016*
