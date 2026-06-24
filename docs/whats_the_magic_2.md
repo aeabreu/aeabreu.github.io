@@ -1,6 +1,6 @@
 # What is the magic?: A good document
 
-You may have come across the diagram below, ([courtesy of Diataxis](https://diataxis.fr/)) 
+You may have come across the diagram below, ([courtesy of Diataxis](https://diataxis.fr/))
 suggesting that all technical documentation falls into one of four categories:
 
 * [Tutorials](#tutorials),
@@ -10,27 +10,27 @@ suggesting that all technical documentation falls into one of four categories:
 
 ![Diataxis diagram](media/image_1.png)
 
-This is a helpful Information Architecture (IA) idea, 
-and [here’s is some top-notch analysis from I’d Rather Be Writing](https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework). 
-Or, if you have the time and interest, 
-[this disarming writer from Django explains the idea very well](https://www.youtube.com/watch?v=p0PPtdRHG6M). 
+This is a helpful Information Architecture (IA) idea,
+and [here’s is some top-notch analysis from I’d Rather Be Writing](https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework).
+Or, if you have the time and interest,
+[this disarming writer from Django explains the idea very well](https://www.youtube.com/watch?v=p0PPtdRHG6M).
 
-But each of these categories deserves some further explanation, 
+But each of these categories deserves some further explanation,
 so I’ll borrow that great cooking metaphor below.
 
 ## Tutorials
 
-Tutorials are **guided lessons by an expert teacher for a beginner**. 
-Think of it like teaching a child to cook. 
-It doesn’t matter that the user isn’t a pro at the end, 
+Tutorials are **guided lessons by an expert teacher for a beginner**.
+Think of it like teaching a child to cook.
+It doesn’t matter that the user isn’t a pro at the end,
 but the process should inspire confidence and help the user see the usefulness of what they’ve done.
 
 **EXAMPLE:**
 
-[Gatsby's Getting Started Tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/) 
+[Gatsby's Getting Started Tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/)
 
-I love that Gatsby includes a video in this example, 
-placed below the introduction and offering the experience of a live teacher 
+I love that Gatsby includes a video in this example,
+placed below the introduction and offering the experience of a live teacher
 for the user to follow along.
 
 * Oriented toward the user’s learning process rather than a specific task.
@@ -41,14 +41,14 @@ for the user to follow along.
 
 ## How-to guides
 
-Guides are step-by-step **directions to achieve a specific end**. 
+Guides are step-by-step **directions to achieve a specific end**.
 These are like recipes, presenting the solutions to tasks your user will be looking to complete.
 
 **EXAMPLE:**
 
-[Twilio's Use the Flex Dialpad Guide](https://www.twilio.com/docs/flex/end-user-guide/dialpad-use) 
+[Twilio's Use the Flex Dialpad Guide](https://www.twilio.com/docs/flex/end-user-guide/dialpad-use)
 
-Notice the docs that support this how-to guide in the left sidenav. 
+Notice the docs that support this how-to guide in the left sidenav.
 Reference docs are readily available, and there’s a page on keyboard shortcuts to make an interested user a power user.
 
 * Problem oriented and goal oriented.
@@ -63,9 +63,9 @@ Explanations are **discussions presented to clarify the history or subtleties of
 
 **EXAMPLE:**
 
-[Amazon's Monitoring and Observability Page](https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc) 
+[Amazon's Monitoring and Observability Page](https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc)
 
-This example explains AWS Observability, a concept that justifies the CloudWatch service. 
+This example explains AWS Observability, a concept that justifies the CloudWatch service.
 Notice the “Related services” section ties this concept directly to existing services.
 
 * Oriented toward deeper understanding, illuminating the history or discussion around a topic.
@@ -74,15 +74,15 @@ Notice the “Related services” section ties this concept directly to existing
 
 ## Reference
 
-Reference guides are **designed to describe componenets in a system**. 
+Reference guides are **designed to describe componenets in a system**.
 These are like encyclopedia entries for the ingredients in a recipe.
 
 **EXAMPLE:**
 
 [Stripe's API Events Object](https://stripe.com/docs/api/events/object)
 
-Notice all these objects and endpoints are on a single webpage, so all can be readily searched. 
-Notice that summary information is not included here, just a link to the “related guide” 
+Notice all these objects and endpoints are on a single webpage, so all can be readily searched.
+Notice that summary information is not included here, just a link to the “related guide”
 where that more specific context resides.
 
 * Technical descriptions of software or hardware (key classes, functions, endpoints). These are code determined. Reference doc structure should mirror the structure of the codebase.
@@ -93,11 +93,10 @@ where that more specific context resides.
 
 # Applying this idea
 
-It may be too much to go back through old documentation to convert the material to these types. 
-It can be enough to [approach new and updated content with these categories in mind](https://diataxis.fr/how-to-use-diataxis/) 
+It may be too much to go back through old documentation to convert the material to these types.
+It can be enough to [approach new and updated content with these categories in mind](https://diataxis.fr/how-to-use-diataxis/)
 so that order emerges over time.
 
-These documentation principles aren’t dogmatic. They work best as guide rails, not hurdles. 
-Intent can be more effective than strict rules. Content is flexible so principles should be too, 
-because there are often a number of ways to achieve a successful outcome. 
-
+These documentation principles aren’t dogmatic. They work best as guide rails, not hurdles.
+Intent can be more effective than strict rules. Content is flexible so principles should be too,
+because there are often a number of ways to achieve a successful outcome.

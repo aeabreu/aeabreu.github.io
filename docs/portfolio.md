@@ -1,14 +1,13 @@
 # What's here
 
-Here is my portfolio (of sorts), a collection of samples and screenshots 
+Here is my portfolio (of sorts), a collection of samples and screenshots
 that I can share from past projects.
 
-My latest work is API documentation and microsite design and management. 
+My latest work is API documentation and microsite design and management.
 But I've even included here some Web, templates, and wiki content,
 along with printed guides and work that spans my entire career.
 
-
-Interested in [viewing my resume](./resume.md)? 
+Interested in [viewing my resume](./resume.md)?
 
 Or [return to the home page](https://aeabreu.github.io/).
 
